@@ -9,4 +9,9 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-
+<div id="bio" align="center">
+  <h2>About Me</h2>
+  </p>Hi, I'm Hiền! I'm a tech enthusiast with a love for coding, photography, and digital arts.</p>
+  </p>When I'm not immersed in tech, you can find me playing table tennis or strumming my ukulele or drawing some patterns.</p>
+  </p>Join me as I share my journey of creativity and tech, all while having a little fun along the way!</p>
+</div>
