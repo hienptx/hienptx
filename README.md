@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <div style="margin-top: 10px; font-size: 20px; font-weight: bold;">
-    
-    Hello, I am Hien. Thanks for visiting my github!
-    
+      <br>Hi, I'm Hien — thanks for visiting my GitHub!<br>
+      <br>I'm currently exploring LLM-based applications and open to collaboration.<br>
+      Feel free to reach out — happy coding!<br>
   </div>
 </div>
